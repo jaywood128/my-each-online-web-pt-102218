@@ -1,12 +1,12 @@
-def my_each(words)
+def my_each(word)
   if block_given?
   i = 0
-  while i < words.length
-    yield words[i]
+  while i < word.length
+    yield word[i]
     i += 1
   end
 
-  words
+  word
   else
     "No block given!" # put argument(s) here
   end  # code here
