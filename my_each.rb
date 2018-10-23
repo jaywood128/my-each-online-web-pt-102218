@@ -11,3 +11,7 @@ def my_each(words)
     "No block given!" # put argument(s) here
   end  # code here
 end
+
+my_each(words) do |word|
+  puts word 
+end
