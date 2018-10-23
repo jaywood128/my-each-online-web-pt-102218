@@ -9,5 +9,5 @@ def my_each(words)
   words
   else
     "No block given!" # put argument(s) here
-  # code here
-end
+end  # code here
+
