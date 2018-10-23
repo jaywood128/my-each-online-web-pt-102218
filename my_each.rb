@@ -10,4 +10,3 @@ def my_each(words)
   else
     "No block given!" # put argument(s) here
 end  # code here
-
