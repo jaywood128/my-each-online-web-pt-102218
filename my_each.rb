@@ -6,7 +6,7 @@ def my_each(words)
     i += 1
   end
 
-  word
+  words
   else
     "No block given!" # put argument(s) here
   end  # code here
