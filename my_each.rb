@@ -12,6 +12,6 @@ def my_each(words)
   end  # code here
 end
 
-my_each(words) do |word|
-   word
-end
+# my_each(words) do |word|
+#    word
+# end
